@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "devStart": "nodemon node server.js"
+    "devStart": "node server.js"
   },
-  "author": "",
+  "author": "aditya",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
